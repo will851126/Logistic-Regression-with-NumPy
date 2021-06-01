@@ -27,8 +27,8 @@ Sigmoid function always outputs values between 0 and 1, and thus can be used to 
 
 1. We start off by importing necessary libraries. As always, **NumPy** is the only package that we will use in order to implement the logistic regression algorithm. All the others will only help us with minor issues such as visualizing the data at hand or creating a dataset. Hence, we won't be using already implemented package solutions for logistic regression.
 
-```def sigmoid(x):
-        return 1 / (1 + np.exp(-x))
+```def sigmoid(x): 
+     return 1 / (1 + np.exp(-x))
 ```
 
 Here, we write the code for the aforementioned sigmoid (logit) function. It is important to note that this function can be applied to all of the elements of a numpy array individually, simply because we make use of the exponential function from the NumPy package.
