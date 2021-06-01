@@ -19,7 +19,8 @@ The term logistic in logistic regression is used because this time we are applyi
 Sigmoid function always outputs values between 0 and 1, and thus can be used to calculate probabilities of input data belonging to a certain class:
 
 <img src="images/sigmoid.png"
-     style="float: left; margin-right: 10px;" />
+     style="float: left; margin-right: 10px
+            width="80%" ;" />
 
 
 
