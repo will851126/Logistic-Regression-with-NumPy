@@ -1,4 +1,4 @@
-# Logistic Regression  with NumPy¶
+# Logistic Regression  with NumPy 
 
 ## Describe
 
